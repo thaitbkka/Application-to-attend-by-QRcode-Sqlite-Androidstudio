@@ -1,0 +1,1 @@
+# Application-to-attend-by-QRcode-Sqlite-Androidstudio
